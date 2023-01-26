@@ -12,11 +12,13 @@
     <None Remove="Algorithms\Hash Tables\" />
     <None Remove="Algorithms\Binary Search\" />
     <None Remove="Algorithms\Sliding Window\" />
+    <None Remove="Algorithms\Programming Skills\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Algorithms\" />
     <Folder Include="Algorithms\Hash Tables\" />
     <Folder Include="Algorithms\Binary Search\" />
     <Folder Include="Algorithms\Sliding Window\" />
+    <Folder Include="Algorithms\Programming Skills\" />
   </ItemGroup>
 </Project>

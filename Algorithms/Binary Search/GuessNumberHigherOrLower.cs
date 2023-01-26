@@ -13,7 +13,7 @@ namespace LeetCodeProblems.Algorithms.BinarySearch
         * int guess(int num);
         */
 
-        public int GuessNumber(int n)
+        public static int GuessNumber(int n)
         {
             // Initialize left, right, and middle variables.
             int min = 1;
