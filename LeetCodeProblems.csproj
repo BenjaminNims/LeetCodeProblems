@@ -22,5 +22,6 @@
     <Folder Include="Algorithms\Sliding Window\" />
     <Folder Include="Algorithms\Programming Skills\" />
     <Folder Include="Algorithms\Two Pointers\" />
+    <Folder Include="Algorithms\Hash Tables\" />
   </ItemGroup>
 </Project>
