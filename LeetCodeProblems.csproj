@@ -9,19 +9,22 @@
 
   <ItemGroup>
     <None Remove="Algorithms\" />
-    <None Remove="Algorithms\Hash Tables\" />
     <None Remove="Algorithms\Binary Search\" />
     <None Remove="Algorithms\Sliding Window\" />
     <None Remove="Algorithms\Programming Skills\" />
     <None Remove="Algorithms\Two Pointers\" />
+    <None Remove="Data Structures\" />
+    <None Remove="Data Structures\Array\" />
+    <None Remove="Data Structures\Hash Tables\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Algorithms\" />
-    <Folder Include="Algorithms\Hash Tables\" />
     <Folder Include="Algorithms\Binary Search\" />
     <Folder Include="Algorithms\Sliding Window\" />
     <Folder Include="Algorithms\Programming Skills\" />
     <Folder Include="Algorithms\Two Pointers\" />
-    <Folder Include="Algorithms\Hash Tables\" />
+    <Folder Include="Data Structures\" />
+    <Folder Include="Data Structures\Array\" />
+    <Folder Include="Data Structures\Hash Tables\" />
   </ItemGroup>
 </Project>
