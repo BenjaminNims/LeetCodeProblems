@@ -14,8 +14,8 @@
     <None Remove="Algorithms\Programming Skills\" />
     <None Remove="Algorithms\Two Pointers\" />
     <None Remove="Data Structures\" />
-    <None Remove="Data Structures\Array\" />
     <None Remove="Data Structures\Hash Tables\" />
+    <None Remove="Algorithms\String\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Algorithms\" />
@@ -24,7 +24,7 @@
     <Folder Include="Algorithms\Programming Skills\" />
     <Folder Include="Algorithms\Two Pointers\" />
     <Folder Include="Data Structures\" />
-    <Folder Include="Data Structures\Array\" />
     <Folder Include="Data Structures\Hash Tables\" />
+    <Folder Include="Algorithms\String\" />
   </ItemGroup>
 </Project>
