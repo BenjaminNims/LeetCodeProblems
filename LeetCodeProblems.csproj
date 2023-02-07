@@ -18,6 +18,7 @@
     <None Remove="Algorithms\String\" />
     <None Remove="Data Structures\Queues\" />
     <None Remove="Data Structures\Matrices\" />
+    <None Remove="Data Structures\Linked Lists\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Algorithms\" />
@@ -30,5 +31,6 @@
     <Folder Include="Algorithms\String\" />
     <Folder Include="Data Structures\Queues\" />
     <Folder Include="Data Structures\Matrices\" />
+    <Folder Include="Data Structures\Linked Lists\" />
   </ItemGroup>
 </Project>
