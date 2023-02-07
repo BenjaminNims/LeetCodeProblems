@@ -17,6 +17,7 @@
     <None Remove="Data Structures\Hash Tables\" />
     <None Remove="Algorithms\String\" />
     <None Remove="Data Structures\Queues\" />
+    <None Remove="Data Structures\Matrices\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Algorithms\" />
@@ -28,5 +29,6 @@
     <Folder Include="Data Structures\Hash Tables\" />
     <Folder Include="Algorithms\String\" />
     <Folder Include="Data Structures\Queues\" />
+    <Folder Include="Data Structures\Matrices\" />
   </ItemGroup>
 </Project>
