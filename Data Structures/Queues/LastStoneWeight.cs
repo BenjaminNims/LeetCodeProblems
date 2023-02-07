@@ -32,21 +32,13 @@ namespace LeetCodeProblems.DataStructures.Queues
             // While we have more than one element-priority pair in our PriorityQueue...
             while (max_heap.Count > 1)
             {
-                // We define our highest priority element and remove it from the queue.
-                int first = max_heap.Dequeue();
-                // Then do it again for the second-highest.
-                int second = max_heap.Dequeue();
-                // We define the difference between the two highest elements.
-                int difference = first - second;
-
-                // If both stones are not destroyed, the remaining stone will have a weight
-                // equal to the difference between the original two, and is added to the
-                // PriorityQueue
-                if (difference != 0)
-                {
-                    max_heap.Enqueue(difference, -difference);
-                }
-                // Repeat with the new PriorityQueue until only one or zero stones remain.
+                // We define the difference between the two highest elements, removing them from
+                // the queue in the process.
+                int difference = max_heap.Dequeue() - max_heap.Dequeue();
+                // We then add the difference and its inverse to the queue. Note here that we don't
+                // check whether or not the difference is 0, since we have to return *something*
+                // at the end via Peek();
+                max_heap.Enqueue(difference, -difference);
             }
 
             // Return the remaining value.
