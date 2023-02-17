@@ -19,6 +19,8 @@
     <None Remove="Data Structures\Matrices\" />
     <None Remove="Data Structures\Linked Lists\" />
     <None Remove="Algorithms\Dynamic Programming\" />
+    <None Remove="ChatGPT.Net" />
+    <None Remove="OpenAI" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Algorithms\" />
@@ -32,5 +34,9 @@
     <Folder Include="Data Structures\Matrices\" />
     <Folder Include="Data Structures\Linked Lists\" />
     <Folder Include="Algorithms\Dynamic Programming\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="ChatGPT.Net" Version="1.1.5" />
+    <PackageReference Include="OpenAI" Version="1.4.0" />
   </ItemGroup>
 </Project>

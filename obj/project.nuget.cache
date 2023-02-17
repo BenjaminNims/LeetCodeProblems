@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "xErdr4c7TM3EvDoWcwwDG05jzozHE8Y9lt6m8IJL6gbEl6dFoaoSbduBlTD+8MZsr09B4Z6tIs67cAn7fPlxJA==",
+  "dgSpecHash": "lo/Z1GZReMwBbzxy9IdHGM+xwXRk17xZOyXisGf2wcEAQwBeSjlTu2Vh4MuD0s0EMLjWXrtPU1Qs/6xILuzWfg==",
   "success": true,
   "projectFilePath": "/Users/b.c.nims/Algorithms/AlgoRepository/LeetCodeProblems/LeetCodeProblems/LeetCodeProblems.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/b.c.nims/.nuget/packages/chatgpt.net/1.1.5/chatgpt.net.1.1.5.nupkg.sha512",
+    "/Users/b.c.nims/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "/Users/b.c.nims/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/b.c.nims/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/b.c.nims/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512",
+    "/Users/b.c.nims/.nuget/packages/openai/1.4.0/openai.1.4.0.nupkg.sha512",
+    "/Users/b.c.nims/.nuget/packages/socketioclient/3.0.7/socketioclient.3.0.7.nupkg.sha512",
+    "/Users/b.c.nims/.nuget/packages/system.collections/4.3.0/system.collections.4.3.0.nupkg.sha512",
+    "/Users/b.c.nims/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/b.c.nims/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/b.c.nims/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/Users/b.c.nims/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
